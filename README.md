@@ -13,12 +13,12 @@ Data Analysis
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
 
-#Instructions
+# Instructions
 
-#Data Modeling
+# Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
-#Data Engineering
+# Data Engineering
 
 
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
@@ -32,7 +32,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 
 
 
-#Data Analysis
+# Data Analysis
 Once you have a complete database, do the following:
 
 
